@@ -1,0 +1,5 @@
+Sub collector
+"&&"
+"||"
+"=="
+End Sub
