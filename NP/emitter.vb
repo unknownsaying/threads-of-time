@@ -1,6 +1,6 @@
 Sub emitter
+"<>"  
 "()"
-"<>"
 "[]"
 "{}"
 End Sub
