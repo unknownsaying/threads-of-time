@@ -19,14 +19,14 @@ auto return3(){
 auto return4(){
     char m,n,o,p;
     int  t7,t8;
-    return m * sin(t7 + t8) + n * cos(t7 - t8);
-    return o * sin(t7 + t8) + p * cos(t7 - t8);
+    return m * ceil(t7 + t8) + n * floor(t7 - t8);
+    return o * floor(t7 + t8) + p * ceil(t7 - t8);
 }
 auto return5(){
    char r,s,t;
    int  t9,t10;
-   return r * asin(t9 + t10) + s * acos(t9 - t10);
-   return t * asin(t9 + t10) + t * acos(t9 - t10);
+   return r * exp(t9 + t10) + s * log(t9 - t10);
+   return t * log(t9 + t10) + t * exp(t9 - t10);
 }
 auto return6(){
     char u,v,w;
