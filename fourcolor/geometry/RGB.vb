@@ -1,4 +1,7 @@
-Imports 
+Imports Blue.vb
+Imports Green.vb
+Imports Red.vb
+Imports anti.vb
  DIM impact0 = "element1 + element2 + element3 + element4";
  DIM impact1 = "element5 - element6 - element7 - element8";
  DIM impact2 = "element9 * element10 * element11 * element12";
