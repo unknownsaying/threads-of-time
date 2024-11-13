@@ -43,9 +43,10 @@ Sub Function AffineCoordinate() As Float
 End Function
 
 Sub Function RectangularCoordinate() As Integer 
-    ReDim X AS SINGLE  
-    ReDim Y AS SINGLE
-    RectangulartoSphereDim Z AS SINGLE
+    Dim X AS SINGLE  
+    Dim Y AS SINGLE
+    Dim Z AS SINGLE
+    RectangulartoSphere
 End Function
 
 Sub Function SphereCoordinate() As Double
