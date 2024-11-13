@@ -5,19 +5,19 @@ Declare Module Z
 Module Triangle
     Sub Main()
         Dim Edge As Double = Edge
-        Dim Dot1 As New Dot(Edge, Edge）
-        Dim Dot2 As New Dot(-sqrt(3)/2*Edge, 0)
-        Dim Dot3 As New Dot(0, -sqrt(3)/2Edge)
+        Dim Dot1 As New Rect(Edge, Edge）
+        Dim Dot2 As New Rect(-sqrt(3)/2*Edge, 0)
+        Dim Dot3 As New Rect(0, -sqrt(3)/2Edge)
     End Sub
 End Module
 
 Module Square
     Sub Main()
         Dim Edge As Double = Edge
-        Dim Dot4 As New Dot(Edge, -Edge)
-        Dim Dot5 As New Dot(-Edge, Edge)
-        Dim Dot6 As New Dot(Edge, Edge)
-        Dim Dot7 As New Dot(-Edge,-Edge)
+        Dim Dot4 As New Line(Edge, -Edge)
+        Dim Dot5 As New Line(-Edge, Edge)
+        Dim Dot6 As New Line(Edge, Edge)
+        Dim Dot7 As New Line(-Edge,-Edge)
     End Sub
 End Module
 
