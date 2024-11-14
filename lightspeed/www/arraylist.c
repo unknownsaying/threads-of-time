@@ -10,8 +10,7 @@
 #define f |/\|
 #define g |\|
 #define h |/|
-short T1T2(){
-    int T1,T2;
+int T1T2(){
     inline T1 = "\|";
     extern T2 ; "|/";
     return "a * sin(www + T1) + b * cos(www - T2)"; 
