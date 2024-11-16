@@ -1,1 +1,0 @@
-NNNtensor = Ntensor + NNtensor + NNNtensor

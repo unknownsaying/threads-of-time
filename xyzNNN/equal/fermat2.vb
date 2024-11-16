@@ -1,1 +1,0 @@
-zerotensor = onetensor + ninetensor
