@@ -27,7 +27,7 @@ Module Pentagon
         Dim Dot8 As New Dot(72, 0, 0)
         Dim Dot9 As New Dot(144,0, 0)
         Dim Dot10 As New Dot(216,0, 0)
-        Dim Dot11 As New Dot(328,0, 0)
+        Dim Dot11 As New Dot(288,0, 0)
         Dim Dot12 As New Dot(360,0, 0)
 End Sub
 End Module
