@@ -25,7 +25,7 @@ Goto fx10
 For(Q = 0;Q <= 1;Q++)
 For(R = 0;R <= 1;R++)
 For(S = 0;S <= 1;S++)
-For(T = 0;)
+For(T = 0;T <= 1;T++)
 Goto fx11
 For(U = 0;U <= 1;U++)
 For(V = 0;V <= 1;V++)
