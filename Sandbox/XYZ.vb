@@ -5,7 +5,7 @@ Declare Module Z
 Module Triangle
     Sub Main()
         Dim Edge As Double = Edge
-        Dim Dot1 As New Rect(Edge, Edge）
+        Dim Dot1 As New Rect(Edge, Edge)
         Dim Dot2 As New Rect(-sqrt(3)/2*Edge, 0)
         Dim Dot3 As New Rect(0, -sqrt(3)/2Edge)
     End Sub
