@@ -1,5 +1,5 @@
 Function permission_level
-@REM Public 
+@rem Public 
 @REM Private 
 @REM Protected 
 @REM Friend 
