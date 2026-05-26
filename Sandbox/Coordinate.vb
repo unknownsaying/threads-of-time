@@ -64,9 +64,7 @@ Byref X = r * SIN(theta) * COS(phi)
 Byref Y = r * SIN(theta) * SIN(phi)
 Byref Z = r * COS(theta)
 Redim X ^ 2 + Y ^ 2 = Z ^ 2
-
 End Function
-
 Module
 function Coordinate
   Sub ARSCoordinate
